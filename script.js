@@ -3,7 +3,7 @@ const photoContainer =  document.querySelector(".best__photo");
 const authorInfo = document.querySelector(".photo__author");
 const likeBtn = document.querySelector(".like_button");
 const counter = document.querySelector(".countLikes");
-const apiKey = 'y4qvDpPV-XqUNf6d53JbS-2--UiTkqJMaSw6tf8CURg';
+const apiKey = 'CmAfWp2sfK0CygY067AoxiAbOLXfEhGhd7-bo7MVkBQ';
 
 window.addEventListener('load', () => {
     fetchPhoto();
